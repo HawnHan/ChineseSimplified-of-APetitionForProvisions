@@ -55,7 +55,7 @@
   <IR.ThingType.Weapons>武器</IR.ThingType.Weapons>
   <IR.ThingType.Apparel>材料</IR.ThingType.Apparel>
   <IR.ThingType.Medical>药物</IR.ThingType.Medical>
-  <IR.ThingType.Buildings>建筑</IR.ThingType.Buildings>
+  <IR.ThingType.Buildings>家具</IR.ThingType.Buildings>
   <IR.ThingType.Animals>动物</IR.ThingType.Animals>
   <IR.ThingType.Other>其他</IR.ThingType.Other>
 
