@@ -29,7 +29,7 @@
   <IR.ItemRequestWindow.Confirm>确定</IR.ItemRequestWindow.Confirm>
   <IR.ItemRequestWindow.Cancel>取消</IR.ItemRequestWindow.Cancel>
   <IR.ItemRequestWindow.PriceUponDelivery>交易价格:</IR.ItemRequestWindow.PriceUponDelivery>
-  <IR.ItemRequestWindow.Requesting> (申请时价格)</IR.ItemRequestWindow.Requesting>
+  <IR.ItemRequestWindow.Requesting> (购买价)</IR.ItemRequestWindow.Requesting>
   <IR.ItemRequestWindow.DeliveryCharge>基于运距涨价(预计: {0} 天行程):</IR.ItemRequestWindow.DeliveryCharge>
   <IR.ItemRequestWindow.FactionRelationOffset>基于派系关系的价格偏向:</IR.ItemRequestWindow.FactionRelationOffset>
 
