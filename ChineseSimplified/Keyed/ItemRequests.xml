@@ -39,7 +39,7 @@
   <IR.ItemRequestWindow.ItemsStillLoading>货物列表载入中...</IR.ItemRequestWindow.ItemsStillLoading>
 
   <IR.LordJobFulfillItemRequest.NoFulfillTrade>未进行交易</IR.LordJobFulfillItemRequest.NoFulfillTrade>
-  <IR.LordJobFulfillItemRequest.NoFulfillAllTrade>未完成整个交易</IR.LordJobFulfillItemRequest.NoFulfillAllTrade>
+  <IR.LordJobFulfillItemRequest.NoFulfillAllTrade>未完整完成交易</IR.LordJobFulfillItemRequest.NoFulfillAllTrade>
   <IR.LordJobFulfillItemRequest.AttackingOutOfAnger>他们因愤怒而攻击你的殖民者！</IR.LordJobFulfillItemRequest.AttackingOutOfAnger>
   <IR.LordJobFulfillItemRequest.RelationsDropped>与该派系的关系下降了。</IR.LordJobFulfillItemRequest.RelationsDropped>
   <IR.LordJobFulfillItemRequest.RequestedCaravanLeaving>来自 {0} 的物资小队正在离开。</IR.LordJobFulfillItemRequest.RequestedCaravanLeaving>
