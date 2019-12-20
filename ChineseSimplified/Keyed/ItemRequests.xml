@@ -6,7 +6,7 @@
   <IR.ConfirmRequestWindow.Cancel>撤回请求</IR.ConfirmRequestWindow.Cancel>
 
   <IR.ConfirmEmptyRequestWindow.WindowTitle>再见</IR.ConfirmEmptyRequestWindow.WindowTitle>
-  <IR.ConfirmEmptyRequestWindow.WindowMessage>{0} 的交易员在挂断时嘟囔着说浪费时间之类的话。</IR.ConfirmEmptyRequestWindow.WindowMessage>
+  <IR.ConfirmEmptyRequestWindow.WindowMessage>{0} 的交易员在挂断时嘟囔着浪费时间之类的话。</IR.ConfirmEmptyRequestWindow.WindowMessage>
   <IR.ConfirmEmptyRequestWindow.Confirm>好</IR.ConfirmEmptyRequestWindow.Confirm>
 
   <IR.DialogWindow.RequestItems>物资申请</IR.DialogWindow.RequestItems>
